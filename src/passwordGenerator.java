@@ -59,7 +59,7 @@ public class passwordGenerator {
 
             System.out.print(yourPassword);
 
-            System.out.println("Thank you for using our system");
+            System.out.println("Thank you for using our system !! Feel free to suggest your friend this program..");
 
 
         }
